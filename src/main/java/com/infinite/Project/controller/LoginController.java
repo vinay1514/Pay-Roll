@@ -27,8 +27,7 @@ public class LoginController {
 	
 	private static final Logger logger= Logger.getLogger(LoginController.class);
 	
-	//we are redirecting to service layer
-	
+	//we are redirecting to service laye
 	//wiring with the service layer
 	@Autowired
 	private EmployeeServiceEmp service;
